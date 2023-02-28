@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![Nagelstudio Kim Huynh](/assets/img/frontpage/slide11.jpg)
+![Nagelstudio Kim Huynh]({{site.baseurl}}/assets/img/frontpage/slide11.jpg)
 
 # Nagelstudio Kim Huynh
 
