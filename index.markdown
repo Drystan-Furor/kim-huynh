@@ -1,22 +1,39 @@
 ---
+layout: page
+
 # Feel free to add content and custom Front Matter to this file.
+
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
 ---
 ![Nagelstudio Kim Huynh]({{site.baseurl}}/assets/img/frontpage/slide11.jpg)
 
-# Nagelstudio Kim Huynh
+# OUR DESTINATION
+- As our vision for the perfect nail salon experience has taken shape and form, we fine-tune and adjust along the
+journey, while we continue to be inspired by our clients.
+- We constantly evolve and innovate our brand experience. Although our primary objective remains providing exquisite
+nail treatments, we plan to extent our service portfolio to offering beauty treatments as well.
+- Our vision is to expand Modern Nails not only in The Netherlands but also in core markets like Belgium and Germany.
+Therefore we are looking for prime locations to expand within shopping centers like Rotterdam Alexandrium.
 
-Welkom bij in Kim Hyunh's nagelstudio, waar we elke klant verwelkomen met open armen en een warme glimlach. Bij ons staat
-persoonlijke aandacht en hoogwaardige kwaliteit van onze nagelbehandelingen centraal. Ons team van ervaren
-nagelstylisten staat klaar om je te helpen bij het kiezen van de perfecte stijl en kleur die past bij jouw
-persoonlijkheid en stijl.
+***
 
-Of je nu langskomt voor een snelle manicure of een uitgebreide nagelbehandeling, wij zorgen ervoor dat je je ontspannen
-en thuis voelt in onze studio. Laat ons je nagels transformeren en je een verbluffend resultaat geven waar je trots op
-kunt zijn. We kijken ernaar uit om je te verwelkomen in onze studio en je een onvergetelijke ervaring te geven!
+## Modern NAILS...
+... has a clear vision and mission.
 
-![Nagelbehandeling](/assets/img/frontpage/slide13.jpg)
+... has a laser focused brand direction.
+
+... is determined to become the number one nail and beauty salon in The Netherlands and beyond its borders.
+
+... has a vast network of professionals and suppliers to reach out
+to.
+
+...is a financially healthy company.
+
+... has a long-lasting relationship with Unibail-Rodamco and is deemed a reliable tenant
+
+... is looking for a lessor/lessee partnership to support her ambition for the years to come.
+
+
 
 

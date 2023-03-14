@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kim Huynh Nagelstudio
+title: Modern Nails
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bij ons vind je alles wat je nodig hebt om je nagels op te fleuren en te verzorgen.
@@ -28,14 +28,12 @@ url: "https://drystan-furor.github.io/kim-huynh" # the base hostname & protocol 
 # github_username:  jekyll
 
 # Company Information
-company_name: Nagelstudio Kim Huynh
-address_line: Via Ludovisi 39-45, Rome, 54267, Italy
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
+company_name: Modern Nails
+address_line: Poolsterstraat 105, 3067 LX Rotterdam
+telephone_number: 010.786.4206
 company_email: hello@nailart.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
-
-
+fax:
+google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2459.1564749500517!2d4.552230165924073!3d51.94933797971006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5cd8bc79de401%3A0x2b86655942ab5129!2sModern%20Nails%20Alexandrium!5e0!3m2!1snl!2snl!4v1678738851245!5m2!1snl!2snl
 
 
 # Build settings
