@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Dag twee"
+title:  "Logo"
 date:   2023-02-26 08:51:04 +0100
 categories: kim hyunh
 ---
 
-Geweldige dag beleefd.
+<div style="display: flex; justify-content: center; align-items: center; height: 5vh;">
+  <img src="{{site.baseurl}}/assets/img/frontpage/logo.png" alt="logo">
+</div>

@@ -1,22 +1,24 @@
 ---
 layout: post
-title:  "Welkom in mijn studio"
+title:  "Modern Nails"
 date:   2023-02-25 08:51:04 +0100
-categories: kim hyunh
+categories: "Modern Nails"
 ---
 
-Welkom bij de Kim Huynh nagelstudio! We zijn verheugd om onze deuren te openen en je te verwelkomen in onze prachtige
-nieuwe studio. Of je nu op zoek bent naar een ontspannende manicure, een opvallende nagelverlenging, of gewoon wat tijd
-voor jezelf, onze ervaren nagelstylisten staan klaar om je te helpen de perfecte look te vinden.
+Welcome to the Modern Nails nail studio! We are delighted to open our doors and welcome you to our beautiful
+new studio. Whether you're looking for a relaxing manicure, eye-catching nail extensions, or just some time
+for yourself, our experienced nail technicians are ready to help you find the perfect look.
 
-Bij Kim Huynh nagelstudio is onze missie om jou een onvergetelijke ervaring te bieden. We zijn toegewijd aan het bieden
-van hoogwaardige nagelbehandelingen en een gastvrije, ontspannen omgeving waar je je op je gemak voelt. We geloven dat
-elke klant uniek is en we zullen ons best doen om aan al je wensen te voldoen en ervoor te zorgen dat je tevreden bent
-met het resultaat.
+At Modern Nails nail studio, our mission is to offer you an unforgettable experience. We are committed to providing
+of high quality nail treatments and a welcoming, relaxed environment where you feel at ease. We believe that
+every customer is unique and we will do our best to meet your every need and make sure you are satisfied
+with the result.
 
-We zijn trots op onze passie voor nagels en ons vermogen om een breed scala aan stijlen en kleuren aan te bieden die
-passen bij jouw persoonlijkheid en stijl. We gebruiken alleen de beste producten en werken met de nieuwste technieken om
-ervoor te zorgen dat je nagels er fantastisch uitzien en lang meegaan.
+We pride ourselves on our passion for nails and our ability to offer a wide variety of styles and colors to match
+match your personality and style. We only use the best products and work with the latest techniques
+making sure your nails look great and last a long time.
 
-Bedankt dat je voor ons hebt gekozen! We kijken ernaar uit om je te verwelkomen in onze studio en je te helpen bij het
-creëren van prachtige nagels waar je trots op kunt zijn.
+Thank you for choosing us! We look forward to welcoming you to our studio and helping you with it
+creating beautiful nails you can be proud of.
+
+![Modern Nails]({{site.baseurl}}/assets/img/frontpage/slide11.jpg)
