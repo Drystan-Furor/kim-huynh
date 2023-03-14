@@ -6,7 +6,13 @@ layout: page
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-
+<style>
+@media screen and (max-width: 768px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}
+</style>
 
 <h1>OUR DESTINATION</h1>
 <div style="display: flex;">
@@ -17,14 +23,14 @@ layout: page
       <li>Our vision is to expand Modern Nails not only in The Netherlands but also in core markets like Belgium and Germany. Therefore we are looking for prime locations to expand within shopping centers like Rotterdam Alexandrium.</li>
     </ul>
   </div>
-  <div style="margin-left: 20px;">
+  <div class="hide-on-mobile" style="margin-left: 20px;">
     <img src="{{site.baseurl}}/assets/img/frontpage/img1.png" alt="picture of a woman with beautiful nails">
   </div>
 </div>
 <br>
 
 <div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
+  <div class="hide-on-mobile" style="margin-right: 20px;">
     <img src="{{site.baseurl}}/assets/img/frontpage/img2.png" alt="picture of a woman with beautiful nails">
   </div>
   <div style="flex: 1;">
@@ -40,14 +46,21 @@ layout: page
     </ul>
   </div>
 </div>
-<div style="margin-left: 20px; text-align: right;">
+<div class="hide-on-mobile" style="margin-left: 20px; text-align: right;">
     <img src="{{site.baseurl}}/assets/img/frontpage/logoLine.png" alt="Modern NAILS logo">
 </div>
 
 
-
-
-
-
-
-
+<script>
+// function to toggle theme
+function toggleTheme() {
+  var body = document.querySelector('body');
+  body.classList.toggle('dark-mode');
+  var themeToggle = document.querySelector('.theme-toggle');
+  if (body.classList.contains('dark-mode')) {
+    themeToggle.textContent = 'Switch to Light Mode';
+  } else {
+    themeToggle.textContent = 'Switch to Dark Mode';
+  }
+}
+</script>
